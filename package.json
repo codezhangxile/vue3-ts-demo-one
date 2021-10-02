@@ -21,5 +21,9 @@
   "description": "This template should help get you started developing with Vue 3 and Typescript in Vite.",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com.cnpmjs.org/codezhangxile/vue3-ts-demo-one.git"
+  }
 }
